@@ -1,1 +1,1 @@
-# Test-my-IQ.com
+https://testmyiq.netlify.app/index.html
